@@ -1,6 +1,4 @@
 .packages
-index.html
-main.dart.js
 packages/$sdk/_internal/ddc_sdk.sum
 packages/$sdk/_internal/strong.sum
 packages/$sdk/dev_compiler/amd/dart_sdk.js
@@ -280,3 +278,7 @@ packages/pedantic/analysis_options.1.6.0.yaml
 packages/pedantic/analysis_options.1.7.0.yaml
 packages/pedantic/analysis_options.1.8.0.yaml
 packages/pedantic/analysis_options.yaml
+pubspec.lock
+pubspec.yaml
+web/index.html
+web/main.dart.js
